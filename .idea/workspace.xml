@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b89f5a26-eb5d-4392-9f70-354d319530a3" name="更改" comment="学习实践" />
+    <list default="true" id="b89f5a26-eb5d-4392-9f70-354d319530a3" name="更改" comment="学习实践">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第四章 微分中值定理与导数的应用.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/第四章 微分中值定理与导数的应用.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -127,7 +130,7 @@
       <workItem from="1741873946062" duration="7211000" />
       <workItem from="1742131986407" duration="1677000" />
       <workItem from="1742213715119" duration="9196000" />
-      <workItem from="1742478617950" duration="912000" />
+      <workItem from="1742478617950" duration="3204000" />
     </task>
     <task id="LOCAL-00001" summary="学习实践">
       <option name="closed" value="true" />
@@ -137,7 +140,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742479443733</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="学习实践">
+      <option name="closed" value="true" />
+      <created>1742479779133</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1742479779133</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

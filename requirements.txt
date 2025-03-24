@@ -1,0 +1,10 @@
+numpy
+matplotlib
+sympy
+scipy
+seaborn
+pandas
+scikit-learn
+statsmodels
+pulp
+xlwt
