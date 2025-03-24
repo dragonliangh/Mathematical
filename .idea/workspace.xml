@@ -23,18 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "dragonliangh"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;dragonliangh&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "git@github.com:dragonliangh/Mathematical.git",
-    "accountId": "28521f41-e363-4071-878b-087cf58d6b58"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:dragonliangh/Mathematical.git&quot;,
+    &quot;accountId&quot;: &quot;28521f41-e363-4071-878b-087cf58d6b58&quot;
   }
-}]]></component>
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/第二章 函数与极限.ipynb" root0="SKIP_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/第四章 微分中值定理与导数的应用.ipynb" root0="SKIP_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
@@ -131,6 +131,7 @@
       <workItem from="1742131986407" duration="1677000" />
       <workItem from="1742213715119" duration="9196000" />
       <workItem from="1742478617950" duration="3204000" />
+      <workItem from="1742828210654" duration="1956000" />
     </task>
     <task id="LOCAL-00001" summary="学习实践">
       <option name="closed" value="true" />
