@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b89f5a26-eb5d-4392-9f70-354d319530a3" name="更改" comment="学习实践">
+      <change afterPath="$PROJECT_DIR$/第五章  不定积分.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第六章  定积分.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/第四章 微分中值定理与导数的应用.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/第四章 微分中值定理与导数的应用.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +38,7 @@
 }</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/第二章 函数与极限.ipynb" root0="SKIP_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/第六章  定积分.ipynb" root0="SKIP_HIGHLIGHTING" root1="SKIP_HIGHLIGHTING" root2="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/第四章 微分中值定理与导数的应用.ipynb" root0="SKIP_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProblemsViewState">
@@ -133,6 +135,12 @@
       <workItem from="1742478617950" duration="3204000" />
       <workItem from="1742828210654" duration="2864000" />
       <workItem from="1742905999025" duration="8867000" />
+      <workItem from="1743082711228" duration="5464000" />
+      <workItem from="1743171661818" duration="6330000" />
+      <workItem from="1743258078353" duration="10262000" />
+      <workItem from="1743312119573" duration="7472000" />
+      <workItem from="1743426035862" duration="10604000" />
+      <workItem from="1743517456815" duration="8499000" />
     </task>
     <task id="LOCAL-00001" summary="学习实践">
       <option name="closed" value="true" />
